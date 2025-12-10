@@ -1,0 +1,12 @@
+textmining3
+vaderSentiment
+pandas
+textblob
+matplotlib
+wordcloud
+nltk
+kaggle
+kagglehub
+seaborn
+scikit-learn
+scipy
